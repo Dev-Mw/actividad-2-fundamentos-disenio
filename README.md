@@ -4,3 +4,4 @@
 
 ### Wilmer Siza
 ### Dario Sotelo
+### Juan Garzón

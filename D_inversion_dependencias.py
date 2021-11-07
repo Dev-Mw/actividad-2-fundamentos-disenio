@@ -3,7 +3,7 @@
 Implementación de principios SOLID
 
 Versión de Python >=3.8
-Autores: Dario Sotelo, Wilmer Siza, ....
+Autores: Dario Sotelo, Wilmer Siza, Juan Garzón...
 Fecha: 06/11/2021
 """
 import abc
